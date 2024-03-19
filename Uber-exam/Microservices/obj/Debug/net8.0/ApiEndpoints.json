@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "Microservices.RouteExtensions\u002B\u003C\u003Ec",
+    "Method": "\u003CMapGroup\u003Eb__0_0",
+    "RelativePath": "email/send",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newEmail",
+        "Type": "EmailModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
