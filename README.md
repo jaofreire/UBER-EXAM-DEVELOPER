@@ -7,7 +7,7 @@ Base Url: https://localhost:7269/
 
 POST-SendEmail: /email/send
 
-Parameters: string emailFrom, List<string> emailTo, string subject, string body
+Parameters: string emailFrom, List string emailTo, string subject, string body
 
 
 
