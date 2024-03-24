@@ -30,7 +30,7 @@ app.MapGet("/get/linhas", async (ISPTransIntegration integration, string termosB
         if (integration.AuthenticateApi(token).Result)
             return Results.Ok(await integration.GetLinhaApi(termosBusca));
 
-        throw new Exception("Not Authorized");
+        return Results.BadRequest("Not Authorized");
        
     }
     catch (Exception ex)

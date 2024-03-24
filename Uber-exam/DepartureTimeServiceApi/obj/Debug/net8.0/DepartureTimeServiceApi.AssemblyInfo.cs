@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DepartureTimeServiceApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+524668c6929ff1a557be4ce82482e23587557121")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c729244f459c61f1259e238cc6d86494cc58699")]
 [assembly: System.Reflection.AssemblyProductAttribute("DepartureTimeServiceApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DepartureTimeServiceApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
