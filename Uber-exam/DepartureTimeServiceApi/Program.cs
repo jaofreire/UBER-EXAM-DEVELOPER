@@ -35,11 +35,6 @@ app.UseHttpsRedirection();
 
 app.Run();
 
-public class AuthenticateResult
-{
-    public bool IsAuthenticate { get; set; }
-}
-
 public class LinhasModel
 {
     public int IdLinha { get; set; }

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6388A494-8100-4802-B089-733579C92CDE}|Env\\Env.csproj|e:\\estudo c#\\uber-exam-repository\\uber-exam-developer\\uber-exam\\env\\keys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6388A494-8100-4802-B089-733579C92CDE}|Env\\Env.csproj|solutionrelative:env\\keys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5FD874D-1A76-4C98-9983-8B4EE71F0491}|DepartureTimeServiceApi\\DepartureTimeServiceApi.csproj|e:\\estudo c#\\uber-exam-repository\\uber-exam-developer\\uber-exam\\departuretimeserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5FD874D-1A76-4C98-9983-8B4EE71F0491}|DepartureTimeServiceApi\\DepartureTimeServiceApi.csproj|solutionrelative:departuretimeserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,26 +38,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Keys.cs",
+              "DocumentMoniker": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\Env\\Keys.cs",
+              "RelativeDocumentMoniker": "Env\\Keys.cs",
+              "ToolTip": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\Env\\Keys.cs",
+              "RelativeToolTip": "Env\\Keys.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:01:48.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RoutesExtension.cs",
               "DocumentMoniker": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\DepartureTimeServiceApi\\RouteManipulation\\RoutesExtension.cs",
               "RelativeDocumentMoniker": "DepartureTimeServiceApi\\RouteManipulation\\RoutesExtension.cs",
               "ToolTip": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\DepartureTimeServiceApi\\RouteManipulation\\RoutesExtension.cs",
               "RelativeToolTip": "DepartureTimeServiceApi\\RouteManipulation\\RoutesExtension.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBoAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T21:23:05.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T21:23:05.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\DepartureTimeServiceApi\\Program.cs",
               "RelativeDocumentMoniker": "DepartureTimeServiceApi\\Program.cs",
               "ToolTip": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\DepartureTimeServiceApi\\Program.cs",
               "RelativeToolTip": "DepartureTimeServiceApi\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAADMAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-22T03:32:38.095Z",
               "EditorCaption": ""
