@@ -4,6 +4,7 @@ using Env;
 using Refit;
 using Newtonsoft.Json;
 using Microsoft.AspNetCore.Mvc;
+using DepartureTimeServiceApi.RouteManipulation;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,41 +22,7 @@ builder.Services.AddSingleton<ISPTransIntegration, SPTransIntegration>();
 
 var app = builder.Build();
 
-app.MapGet("/get/linhas", async (ISPTransIntegration integration, string termosBusca) =>
-{
-    try
-    {
-        var token = Keys.spTransToken;
-
-        if (integration.AuthenticateApi(token).Result)
-            return Results.Ok(await integration.GetLinhaApi(termosBusca));
-
-        return Results.BadRequest("Not Authorized");
-       
-    }
-    catch (Exception ex)
-    {
-        return Results.BadRequest(ex);
-    }
-
-});
-
-app.MapPost("/authenticate", async (ISPTransIntegration integration) =>
-{
-    try
-    {
-        var token = Keys.spTransToken;
-        var result = await integration.AuthenticateApi(token);
-
-        return Results.Ok(result);
-    }
-    catch (Exception ex)
-    {
-        return Results.BadRequest(ex);
-    }
-
-});
-
+Routes.Map(app);
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -64,10 +31,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-
-
 app.UseHttpsRedirection();
-
 
 app.Run();
 

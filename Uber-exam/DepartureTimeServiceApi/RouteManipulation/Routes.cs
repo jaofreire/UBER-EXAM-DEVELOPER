@@ -1,6 +1,10 @@
 ﻿namespace DepartureTimeServiceApi.RouteManipulation
 {
-    public class Routes
+    public static class Routes
     {
+        public static void Map(WebApplication app)
+        {
+            app.MapGroup("/apiIntegration").MapGroup();
+        }
     }
 }

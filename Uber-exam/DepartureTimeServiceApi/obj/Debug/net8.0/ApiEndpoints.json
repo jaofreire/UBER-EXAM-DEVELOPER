@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "Program\u002B\u003C\u003Ec",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_2",
-    "RelativePath": "authenticate",
+    "ContainingType": "DepartureTimeServiceApi.RouteManipulation.RoutesExtension\u002B\u003C\u003Ec",
+    "Method": "\u003CMapGroup\u003Eb__0_1",
+    "RelativePath": "apiIntegration/authenticate",
     "HttpMethod": "POST",
     "IsController": false,
     "Order": 0,
@@ -16,9 +16,9 @@
     ]
   },
   {
-    "ContainingType": "Program\u002B\u003C\u003Ec",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_1",
-    "RelativePath": "get/linhas",
+    "ContainingType": "DepartureTimeServiceApi.RouteManipulation.RoutesExtension\u002B\u003C\u003Ec",
+    "Method": "\u003CMapGroup\u003Eb__0_0",
+    "RelativePath": "apiIntegration/get/linhas",
     "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
