@@ -1,6 +1,6 @@
 using Amazon.SimpleEmail;
 using Microservices;
-using Microservices.AwsEmailConfig;
+using Microservices.AwsSESConfig;
 
 
 

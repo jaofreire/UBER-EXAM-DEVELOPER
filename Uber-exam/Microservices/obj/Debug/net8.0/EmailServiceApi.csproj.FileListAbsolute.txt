@@ -71,3 +71,4 @@ E:\estudo C#\Uber-Exam-Repository\UBER-EXAM-DEVELOPER\Uber-exam\Microservices\ob
 E:\estudo C#\Uber-Exam-Repository\UBER-EXAM-DEVELOPER\Uber-exam\Microservices\obj\Debug\net8.0\ref\EmailServiceApi.dll
 E:\estudo C#\Uber-Exam-Repository\UBER-EXAM-DEVELOPER\Uber-exam\Microservices\bin\Debug\net8.0\appsettings.Development.json
 E:\estudo C#\Uber-Exam-Repository\UBER-EXAM-DEVELOPER\Uber-exam\Microservices\bin\Debug\net8.0\appsettings.json
+E:\estudo C#\Uber-Exam-Repository\UBER-EXAM-DEVELOPER\Uber-exam\Microservices\obj\Debug\net8.0\EmailServiceApi.sourcelink.json

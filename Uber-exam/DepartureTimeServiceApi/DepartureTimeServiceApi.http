@@ -1,0 +1,6 @@
+@DepartureTimeServiceApi_HostAddress = http://localhost:5045
+
+GET {{DepartureTimeServiceApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

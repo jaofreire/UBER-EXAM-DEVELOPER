@@ -1,6 +1,4 @@
-﻿using Microservices.AwsEmailConfig;
-using System.Net;
-using System.Net.Mail;
+﻿using Microservices.AwsSESConfig;
 using System.Text.RegularExpressions;
 
 namespace Microservices
