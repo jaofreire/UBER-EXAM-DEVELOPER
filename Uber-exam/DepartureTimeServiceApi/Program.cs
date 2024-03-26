@@ -1,9 +1,6 @@
 using DepartureTimeServiceApi.Integration;
 using DepartureTimeServiceApi.Integration.Refit;
-using Env;
 using Refit;
-using Newtonsoft.Json;
-using Microsoft.AspNetCore.Mvc;
 using DepartureTimeServiceApi.RouteManipulation;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,12 +10,12 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddRefitClient<ISPTransIntegrationRefit>().ConfigureHttpClient(options =>
 {
-    options.BaseAddress = new Uri("https://api.olhovivo.sptrans.com.br/v2.1/");
+    options.BaseAddress = new Uri("https://api.olhovivo.sptrans.com.br/v2.1");
 });
 
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddSingleton<ISPTransIntegration, SPTransIntegration>();
+builder.Services.AddScoped<ISPTransIntegration, SPTransIntegration>();
 
 var app = builder.Build();
 

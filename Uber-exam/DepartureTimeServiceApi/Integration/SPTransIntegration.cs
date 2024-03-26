@@ -1,6 +1,5 @@
 ﻿using DepartureTimeServiceApi.Integration.Refit;
 using Newtonsoft.Json;
-using System.Text.Json.Serialization;
 
 namespace DepartureTimeServiceApi.Integration
 {
@@ -8,6 +7,7 @@ namespace DepartureTimeServiceApi.Integration
     {
         
         private readonly ISPTransIntegrationRefit _refitSPTrans;
+
 
         public SPTransIntegration(ISPTransIntegrationRefit refitSPTrans)
         {
@@ -19,7 +19,7 @@ namespace DepartureTimeServiceApi.Integration
             return await _refitSPTrans.Authenticate(token);
         }
 
-        public async Task<LinhasModel> GetLinhaApi(string termosBusca)
+        public async Task<List<LinhasModel>> GetLinhaApi(string termosBusca)
         {
             return await _refitSPTrans.GetLinhas(termosBusca);
         }
