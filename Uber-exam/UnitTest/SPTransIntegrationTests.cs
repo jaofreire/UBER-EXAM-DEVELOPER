@@ -6,18 +6,18 @@ namespace UnitTest
 {
     public class SPTransIntegrationTests
     {
-        private Mock<ISPTransIntegrationRefit> _refit;
+        private Mock<ITransitLandsIntegrationRefit> _refit;
 
         public SPTransIntegrationTests()
         {
-            _refit = new Mock<ISPTransIntegrationRefit>();
+            _refit = new Mock<ITransitLandsIntegrationRefit>();
         }
 
         [Fact]
         public void Authenticate_IsValid_ReturnTrue()
         {
             string token = Env.Keys.spTransToken;
-            var integration = new SPTransIntegration(_refit.Object);
+            var integration = new TransiLandsIntegration(_refit.Object);
             
             var response = integration.AuthenticateApi(token);
 

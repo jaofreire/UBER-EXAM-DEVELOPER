@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "DepartureTimeServiceApi.RouteManipulation.RoutesExtension\u002B\u003C\u003Ec",
-    "Method": "\u003CMapGroup\u003Eb__0_1",
+    "Method": "\u003CMapGroup\u003Eb__0_3",
     "RelativePath": "apiIntegration/authenticate",
     "HttpMethod": "POST",
     "IsController": false,
@@ -26,6 +26,55 @@
       {
         "Name": "termosBusca",
         "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DepartureTimeServiceApi.RouteManipulation.RoutesExtension\u002B\u003C\u003Ec",
+    "Method": "\u003CMapGroup\u003Eb__0_1",
+    "RelativePath": "apiIntegration/get/paradas",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "termosBusca",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DepartureTimeServiceApi.RouteManipulation.RoutesExtension\u002B\u003C\u003Ec",
+    "Method": "\u003CMapGroup\u003Eb__0_2",
+    "RelativePath": "apiIntegration/get/previsoesParada",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigoParada",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "codigoLinha",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
