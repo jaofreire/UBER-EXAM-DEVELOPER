@@ -15,7 +15,6 @@ builder.Services.AddAWSService<IAmazonSimpleEmailService>().AddTransient<SESWrap
 builder.Services.AddDefaultAWSOptions(builder.Configuration.GetAWSOptions());
 
 
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -25,7 +24,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
 
 Routes.Map(app);
 
@@ -45,7 +43,5 @@ public class EmailModel
     public List<string>? To { get; set; }
     public string? Subject { get; set; }
     public string? Body { get; set; }
-
-
 
 }

@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5FD874D-1A76-4C98-9983-8B4EE71F0491}|DepartureTimeServiceApi\\DepartureTimeServiceApi.csproj|e:\\estudo c#\\uber-exam-repository\\uber-exam-developer\\uber-exam\\departuretimeserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5FD874D-1A76-4C98-9983-8B4EE71F0491}|DepartureTimeServiceApi\\DepartureTimeServiceApi.csproj|solutionrelative:departuretimeserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CD3FAAF-F706-4EB3-A761-12D2B62651F1}|Microservices\\EmailServiceApi.csproj|e:\\estudo c#\\uber-exam-repository\\uber-exam-developer\\uber-exam\\microservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD3FAAF-F706-4EB3-A761-12D2B62651F1}|Microservices\\EmailServiceApi.csproj|solutionrelative:microservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6388A494-8100-4802-B089-733579C92CDE}|Env\\Env.csproj|e:\\estudo c#\\uber-exam-repository\\uber-exam-developer\\uber-exam\\env\\keys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6388A494-8100-4802-B089-733579C92CDE}|Env\\Env.csproj|solutionrelative:env\\keys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CD3FAAF-F706-4EB3-A761-12D2B62651F1}|Microservices\\EmailServiceApi.csproj|e:\\estudo c#\\uber-exam-repository\\uber-exam-developer\\uber-exam\\microservices\\awssesconfig\\seswrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD3FAAF-F706-4EB3-A761-12D2B62651F1}|Microservices\\EmailServiceApi.csproj|solutionrelative:microservices\\awssesconfig\\seswrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5FD874D-1A76-4C98-9983-8B4EE71F0491}|DepartureTimeServiceApi\\DepartureTimeServiceApi.csproj|e:\\estudo c#\\uber-exam-repository\\uber-exam-developer\\uber-exam\\departuretimeserviceapi\\routemanipulation\\routesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5FD874D-1A76-4C98-9983-8B4EE71F0491}|DepartureTimeServiceApi\\DepartureTimeServiceApi.csproj|solutionrelative:departuretimeserviceapi\\routemanipulation\\routesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CD3FAAF-F706-4EB3-A761-12D2B62651F1}|Microservices\\EmailServiceApi.csproj|e:\\estudo c#\\uber-exam-repository\\uber-exam-developer\\uber-exam\\microservices\\routes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD3FAAF-F706-4EB3-A761-12D2B62651F1}|Microservices\\EmailServiceApi.csproj|solutionrelative:microservices\\routes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5FD874D-1A76-4C98-9983-8B4EE71F0491}|DepartureTimeServiceApi\\DepartureTimeServiceApi.csproj|e:\\estudo c#\\uber-exam-repository\\uber-exam-developer\\uber-exam\\departuretimeserviceapi\\integration\\transilandsintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5FD874D-1A76-4C98-9983-8B4EE71F0491}|DepartureTimeServiceApi\\DepartureTimeServiceApi.csproj|solutionrelative:departuretimeserviceapi\\integration\\transilandsintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CD3FAAF-F706-4EB3-A761-12D2B62651F1}|Microservices\\EmailServiceApi.csproj|e:\\estudo c#\\uber-exam-repository\\uber-exam-developer\\uber-exam\\microservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CD3FAAF-F706-4EB3-A761-12D2B62651F1}|Microservices\\EmailServiceApi.csproj|solutionrelative:microservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5FD874D-1A76-4C98-9983-8B4EE71F0491}|DepartureTimeServiceApi\\DepartureTimeServiceApi.csproj|e:\\estudo c#\\uber-exam-repository\\uber-exam-developer\\uber-exam\\departuretimeserviceapi\\integration\\itransitlandsintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5FD874D-1A76-4C98-9983-8B4EE71F0491}|DepartureTimeServiceApi\\DepartureTimeServiceApi.csproj|solutionrelative:departuretimeserviceapi\\integration\\itransitlandsintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5FD874D-1A76-4C98-9983-8B4EE71F0491}|DepartureTimeServiceApi\\DepartureTimeServiceApi.csproj|e:\\estudo c#\\uber-exam-repository\\uber-exam-developer\\uber-exam\\departuretimeserviceapi\\integration\\refit\\itransitlandsintegrationrefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5FD874D-1A76-4C98-9983-8B4EE71F0491}|DepartureTimeServiceApi\\DepartureTimeServiceApi.csproj|solutionrelative:departuretimeserviceapi\\integration\\refit\\itransitlandsintegrationrefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CD3FAAF-F706-4EB3-A761-12D2B62651F1}|Microservices\\EmailServiceApi.csproj|e:\\estudo c#\\uber-exam-repository\\uber-exam-developer\\uber-exam\\microservices\\routeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD3FAAF-F706-4EB3-A761-12D2B62651F1}|Microservices\\EmailServiceApi.csproj|solutionrelative:microservices\\routeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,80 +46,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Keys.cs",
-              "DocumentMoniker": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\Env\\Keys.cs",
-              "RelativeDocumentMoniker": "Env\\Keys.cs",
-              "ToolTip": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\Env\\Keys.cs",
-              "RelativeToolTip": "Env\\Keys.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\Microservices\\Program.cs",
+              "RelativeDocumentMoniker": "Microservices\\Program.cs",
+              "ToolTip": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\Microservices\\Program.cs",
+              "RelativeToolTip": "Microservices\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T10:00:48.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ITransitLandsIntegration.cs",
-              "DocumentMoniker": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\DepartureTimeServiceApi\\Integration\\ITransitLandsIntegration.cs",
-              "RelativeDocumentMoniker": "DepartureTimeServiceApi\\Integration\\ITransitLandsIntegration.cs",
-              "ToolTip": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\DepartureTimeServiceApi\\Integration\\ITransitLandsIntegration.cs",
-              "RelativeToolTip": "DepartureTimeServiceApi\\Integration\\ITransitLandsIntegration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T20:00:49.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TransiLandsIntegration.cs",
-              "DocumentMoniker": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\DepartureTimeServiceApi\\Integration\\TransiLandsIntegration.cs",
-              "RelativeDocumentMoniker": "DepartureTimeServiceApi\\Integration\\TransiLandsIntegration.cs",
-              "ToolTip": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\DepartureTimeServiceApi\\Integration\\TransiLandsIntegration.cs",
-              "RelativeToolTip": "DepartureTimeServiceApi\\Integration\\TransiLandsIntegration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T19:59:08.38Z",
+              "WhenOpened": "2024-05-11T02:37:51.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RoutesExtension.cs",
-              "DocumentMoniker": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\DepartureTimeServiceApi\\RouteManipulation\\RoutesExtension.cs",
-              "RelativeDocumentMoniker": "DepartureTimeServiceApi\\RouteManipulation\\RoutesExtension.cs",
-              "ToolTip": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\DepartureTimeServiceApi\\RouteManipulation\\RoutesExtension.cs",
-              "RelativeToolTip": "DepartureTimeServiceApi\\RouteManipulation\\RoutesExtension.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Title": "Routes.cs",
+              "DocumentMoniker": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\Microservices\\Routes.cs",
+              "RelativeDocumentMoniker": "Microservices\\Routes.cs",
+              "ToolTip": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\Microservices\\Routes.cs",
+              "RelativeToolTip": "Microservices\\Routes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T19:57:39.348Z",
+              "WhenOpened": "2024-05-11T02:37:25.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ITransitLandsIntegrationRefit.cs",
-              "DocumentMoniker": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\DepartureTimeServiceApi\\Integration\\Refit\\ITransitLandsIntegrationRefit.cs",
-              "RelativeDocumentMoniker": "DepartureTimeServiceApi\\Integration\\Refit\\ITransitLandsIntegrationRefit.cs",
-              "ToolTip": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\DepartureTimeServiceApi\\Integration\\Refit\\ITransitLandsIntegrationRefit.cs",
-              "RelativeToolTip": "DepartureTimeServiceApi\\Integration\\Refit\\ITransitLandsIntegrationRefit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "DocumentIndex": 1,
+              "Title": "SESWrapper.cs",
+              "DocumentMoniker": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\Microservices\\AwsSESConfig\\SESWrapper.cs",
+              "RelativeDocumentMoniker": "Microservices\\AwsSESConfig\\SESWrapper.cs",
+              "ToolTip": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\Microservices\\AwsSESConfig\\SESWrapper.cs",
+              "RelativeToolTip": "Microservices\\AwsSESConfig\\SESWrapper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T19:58:12.434Z",
+              "WhenOpened": "2024-05-11T02:35:46.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\DepartureTimeServiceApi\\Program.cs",
-              "RelativeDocumentMoniker": "DepartureTimeServiceApi\\Program.cs",
-              "ToolTip": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\DepartureTimeServiceApi\\Program.cs",
-              "RelativeToolTip": "DepartureTimeServiceApi\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\Microservices\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Microservices\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\Microservices\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Microservices\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-31T18:29:09.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteExtensions.cs",
+              "DocumentMoniker": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\Microservices\\RouteExtensions.cs",
+              "RelativeDocumentMoniker": "Microservices\\RouteExtensions.cs",
+              "ToolTip": "E:\\estudo C#\\Uber-Exam-Repository\\UBER-EXAM-DEVELOPER\\Uber-exam\\Microservices\\RouteExtensions.cs",
+              "RelativeToolTip": "Microservices\\RouteExtensions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T03:32:38.095Z",
+              "WhenOpened": "2024-03-31T16:32:32.392Z",
               "EditorCaption": ""
             }
           ]

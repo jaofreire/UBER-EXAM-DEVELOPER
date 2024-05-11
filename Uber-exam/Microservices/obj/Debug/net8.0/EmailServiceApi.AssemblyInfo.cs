@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("ae10e549-6bdf-4648-bc51-e16320cad672")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmailServiceApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85d03eb611e5741311769a7295d71c115049d540")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9048529c615509002d9174dde6d3376703461c0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmailServiceApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmailServiceApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
