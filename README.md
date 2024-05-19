@@ -1,7 +1,7 @@
 # UBER-EXAM-DEVELOPER
 
 API made for Developer Code Exam Uber , link: https://github.com/uber-archive/coding-challenge-tools/blob/master/coding_challenge.md.
-Of 4 applications, i chose make all of them using microservices architecture and Minimal API concepts
+Of 4 applications, i chose make the Email Service with microservices architecture and Minimal API concepts
 
 EndPoints:
 
